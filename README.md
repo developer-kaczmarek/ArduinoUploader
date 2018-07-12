@@ -1,6 +1,7 @@
 # Arduino Uploader - GUI wrapper for AVRDUDE
 ## Arduino Uploader - графическая оболочка для AVRDude
 ![uploader for arduino](https://github.com/developer-kaczmarek/ArduinoUploader/raw/master/arduino.png)
+___
 Для работы с данным приложением, необходимо выбрать HEX-файл, модель вашей платы, COM-порт и скорость передачи данных.
 
 Если на вашем компьютере **не установлены драйвера для Arduino** вы должны предпринять следующие шаги:
