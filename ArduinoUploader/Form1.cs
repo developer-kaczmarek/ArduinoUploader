@@ -3,6 +3,7 @@
 //      Author: Marta Kaczmarek (developer-kaczmarek)             //
 //      Web-site to connect: https://vk.com/programmer.kaczmarek  //
 //      Arduino Uploader - GUI wrapper for AVRDUDE                //
+//      This is my school project. Do not judge strictly.         //
 //      05.02.2017                                                //
 ////////////////////////////////////////////////////////////////////
 
