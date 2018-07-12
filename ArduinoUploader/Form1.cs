@@ -1,10 +1,10 @@
-﻿////////////////////////////////////////////////////////////
-//      Hello, User                                       //
-//      Author: Angelina Ponomareva (raccoon-lina)        //
-//      Web-site to connect: https://vk.com/raccoon_lina  //
-//      Arduino Uploader - GUI wrapper for AVRDUDE        //
-//      05.02.2017                                        //
-////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
+//      Hello, User                                               //
+//      Author: Marta Kaczmarek (developer-kaczmarek)             //
+//      Web-site to connect: https://vk.com/programmer.kaczmarek  //
+//      Arduino Uploader - GUI wrapper for AVRDUDE                //
+//      05.02.2017                                                //
+////////////////////////////////////////////////////////////////////
 
 
 using System;
