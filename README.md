@@ -1,5 +1,5 @@
-# Arduino Uploader - GUI wrapper for AVRDUDE
-## Arduino Uploader - графическая оболочка для AVRDude
+# Arduino Uploader - графическая оболочка для AVRDude
+
 ![uploader for arduino](https://github.com/developer-kaczmarek/ArduinoUploader/raw/master/arduino.png)
 ___
 "Arduino Uploader" позволяет осуществить прошивку вашей Arduino файлом формата HEX. 
